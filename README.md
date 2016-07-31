@@ -45,6 +45,8 @@ python gui_final.py 01
 2. run the bci_final.py file using the following command in the command prompt-
 	python bci_final.py 
 ```
+### Screenshots 
+![Media Player Screen 1](http://i.imgur.com/M7GT8NH.jpg "Media Player Screen 1")
 
 ### Contributing
 * File an issue
