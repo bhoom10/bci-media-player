@@ -35,7 +35,7 @@ pip install wyrm
 ```
 pip install mp3play
 ```
-WHILE RUNNING:
+While running:
 Before running the files, add the music you would like to play to the “songs” folder. All the music must be in mp3 format only. 
 ```
 1. run the gui_final.py file using the following command in the command prompt-
