@@ -56,9 +56,19 @@ python gui_final.py 01
 * If everything is good, the PR will get merged
 
 
+### Want to know more about BCI?
+
+References: 
+- [Introduction to BCI](http://computer.howstuffworks.com/brain-computer-interface.htm)
+- [BCI is already here](https://www.bloomberg.com/news/features/2017-09-07/brain-computer-interfaces-are-already-here)
+- [Brainwaves 101](http://www.brainworksneurotherapy.com/what-are-brainwaves)
+- [Motor imagery and Mu Waves](https://irenevigueguix.wordpress.com/2016/04/18/introduction-to-mu-waves-for-bci/)
+- [Wyrm toolbox for BCI experiments](https://pypi.python.org/pypi/Wyrm)
+- [Signal processing in BCI](https://www.intechopen.com/books/intelligent-and-biosensors/signal-processing-and-classification-approaches-for-brain-computer-interface)
 
 ### Authors
 * **Bhoomika Agarwal** - *Initial work* - [Bhoom10](https://github.com/bhoom10)
+* **Abhiram Ravikumar** - [abhi12ravi](https://github.com/abhi12ravi)
 
 
 ## License
